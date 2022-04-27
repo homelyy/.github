@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://github.com/homelyy">
-        <img src="./img/homely.gif" alt="Homely" />
+        <img src="https://raw.githubusercontent.com/homelyy/.github/main/profile/img/homely.gif" alt="Homely" />
     </a>
     <br><br />
     <p>
